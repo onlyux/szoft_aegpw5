@@ -55,10 +55,6 @@ namespace snake
             }
 
             if (lépésSzámlámó % 2 == 0) ke.BackColor = Color.Green;
-
-            fejX += irányX * KígyóElem.Méret;
-            fejY += irányY * KígyóElem.Méret;
-
         }
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
