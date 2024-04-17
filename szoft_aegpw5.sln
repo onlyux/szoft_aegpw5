@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HajósTesztes", "HajósTesz
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "snake", "snake\snake.csproj", "{83D8DFB6-5CB3-4229-B80B-1416C91C8F23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{4749FFD2-3D29-4263-AD3F-EF7A1B59FE69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{4749FFD2-3D29-4263-AD3F-EF7A1B59FE69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adatkötés", "Adatkötés\Adatkötés.csproj", "{1D7F2DFC-EF93-43C8-B1E1-0329DBDFB2F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adatkötés", "Adatkötés\Adatkötés.csproj", "{1D7F2DFC-EF93-43C8-B1E1-0329DBDFB2F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mintaZH", "mintaZH\mintaZH.csproj", "{2D6628DD-9323-4FB1-8375-B800C93E4530}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{1D7F2DFC-EF93-43C8-B1E1-0329DBDFB2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D7F2DFC-EF93-43C8-B1E1-0329DBDFB2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D7F2DFC-EF93-43C8-B1E1-0329DBDFB2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D6628DD-9323-4FB1-8375-B800C93E4530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6628DD-9323-4FB1-8375-B800C93E4530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6628DD-9323-4FB1-8375-B800C93E4530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6628DD-9323-4FB1-8375-B800C93E4530}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
